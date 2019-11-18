@@ -1,0 +1,9 @@
+body{
+	margin:0;
+	padding:0;
+	/* box-sizing: border-box; */
+	/* outline: none; */
+	/* font-family: script; */
+	background: url("img/Pozadina0.jpg") no-repeat top center;
+	background-size: cover;
+	height: 100vh;		}

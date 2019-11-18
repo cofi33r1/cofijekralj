@@ -1,0 +1,48 @@
+/*p {
+	color: red;
+	
+}
+*/
+#pid {
+	color: blue;
+	
+}
+
+.pclass {
+	color: green;
+}
+
+
+p.pclass2 {
+	color: yellow;
+}
+div p {
+	
+	background-color:  orange;	
+}
+
+a:hover{
+	
+	color: black;	
+}
+
+
+p::first-letter {
+	color: Green;
+	font-size: xx-large
+}
+
+h1::after{
+	content: url(Untitled.png)
+	
+}
+
+* {
+	color: dodgerblue;
+	
+}
+h5,h6 {
+	
+	color:magenta;	
+}
+

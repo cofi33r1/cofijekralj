@@ -1,0 +1,57 @@
+
+body {
+		
+		margin:0;
+		
+		
+		
+		}
+			ul {
+				list-style-type:none;
+				margin: 0;
+				padding: 0;
+				
+				overflow: hidden;
+				background-color:black;
+				
+				top: 0;
+				position: fixed;
+				width:100%;
+				
+			}
+			li{
+				float:left;
+				border-right: 1px solid #bbb;
+			}
+			li a {
+				text-decoration:none;
+				display: block;
+				padding:12px 20px;
+				color:green;
+				text-align: center;
+			}
+			
+		li a:hover {
+			background-color:white
+		}	
+		h3{
+		text-align: center;
+		}
+		
+		
+		     
+		div{
+			margin-top: 80px;
+			padding:20px;
+			height:1500px;
+			
+			
+		}
+			img {
+		
+		max-width:100%;
+		height:auto;
+		
+		
+		}
+		

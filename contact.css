@@ -1,0 +1,53 @@
+body{
+	margin:0;
+	padding:0;
+	text-align: center;
+	background: url(img/contact.jpg);
+	background-size: cover;
+	font-family: Brush Script Std;
+}
+
+.title{
+	margin-top: 100px;
+	color: #66ffff;
+}
+
+.title h1{
+	font-size: 32px;
+	line-height: 10px;
+}
+
+form{
+	margin-top: 50px;
+}
+.form-control{
+	width:600px;
+	background: transparent;
+	border: none;
+	outline:none;
+	border-bottom: 1px solid gray;
+	color: #ffff00;
+	font-size: 18px;
+	margin-bottom: 16px;
+}
+
+input{
+	height: 45px;
+}
+
+form .submit{ 
+	background-color: #ff5722;
+	border-color: transparent;
+	color: #fff;
+	font-size: 25px;
+	letter-spacing: 3px;
+	height:40px;
+	margin-top: 20px;
+	transition: 0.3 s ease;
+}
+
+form .submit:hover{
+	
+	background-color: #00cc00;
+	cursor: pointer;
+}
